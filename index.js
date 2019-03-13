@@ -19,5 +19,5 @@ function logShout(string){
  logWhisper("hello")
  
  function sayHiToGrandma(string) {
-   if ()
+   if (string === string.toLowerCase)
  }
